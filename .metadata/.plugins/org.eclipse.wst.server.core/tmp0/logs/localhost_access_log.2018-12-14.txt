@@ -1,0 +1,17 @@
+127.0.0.1 - - [14/Dec/2018:18:13:18 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:13:20 +0530] "GET /StudentApplication/ HTTP/1.1" 404 1096
+127.0.0.1 - - [14/Dec/2018:18:22:13 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:22:14 +0530] "GET /StudentApplication/ HTTP/1.1" 404 1096
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:23:24 +0530] "GET /StudentApplication/ HTTP/1.1" 404 1096
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:23:25 +0530] "GET /favicon.ico HTTP/1.1" 404 1084
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:23:38 +0530] "GET /StudentApplication/MyServlet HTTP/1.1" 200 30
+127.0.0.1 - - [14/Dec/2018:18:25:10 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:25:11 +0530] "GET /StudentApplication/ HTTP/1.1" 200 30
+127.0.0.1 - - [14/Dec/2018:18:32:29 +0530] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:32:30 +0530] "GET /StudentApplication/ HTTP/1.1" 404 1096
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:32:35 +0530] "GET /StudentApplication/home HTTP/1.1" 200 30
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:39:33 +0530] "GET /StudentApplication/home HTTP/1.1" 200 84
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:39:54 +0530] "GET /StudentApplication/home HTTP/1.1" 200 84
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:39:56 +0530] "GET /StudentApplication/home HTTP/1.1" 200 84
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:39:56 +0530] "GET /StudentApplication/home HTTP/1.1" 200 84
+0:0:0:0:0:0:0:1 - - [14/Dec/2018:18:40:07 +0530] "GET /StudentApplication/home HTTP/1.1" 200 54
